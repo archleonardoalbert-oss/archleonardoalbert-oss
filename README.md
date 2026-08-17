@@ -1,6 +1,22 @@
-# Hello there! 👋 Welcome to my GitHub profile
+<!-- HEADER ANIMATION: Capsule Render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&animation=fadeIn" width="100%" alt="Header Animation" />
+</p>
 
-**Backend Developer** | Computer Science Student at **MatCom** (University of Havana)
+<!-- DYNAMIC TYPING TEXT -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Backend+Developer;Competitive+Programmer;SaaS+Architect;AI+%26+TensorFlow+Enthusiast" alt="Typing Animation" />
+  </a>
+</h1>
+
+<p align="center">
+  <b>Computer Science Student at MatCom (University of Havana)</b>
+</p>
+
+---
+
+### 📝 About Me
 
 Software engineer in training with a rigorous focus on backend development, systems architecture, and **SaaS** product design. My profile is defined by a strong capacity for continuous learning and the rapid adoption of emerging technologies, complemented by a solid analytical foundation cultivated through **competitive programming** and algorithmic problem-solving. Passionate about solving complex challenges and integrating **Artificial Intelligence** solutions into scalable software.
 
@@ -25,9 +41,14 @@ Software engineer in training with a rigorous focus on backend development, syst
 * ⚙️ **Backend & SaaS Development:** Scalable software architecture, REST APIs, and business logic designed for SaaS products.
 * 🏆 **Competitive Programming:** Algorithm optimization, advanced data structures, and efficient problem solving.
 * 🤖 **Artificial Intelligence:** Model development and implementation using TensorFlow.
----
 
-<!-- Animated Footer -->
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archleonardoalbert-oss&theme=react-dark" alt="Activity Graph" />
+</p>
+
+<!-- FOOTER ANIMATION -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer Animation" />
 </p>
