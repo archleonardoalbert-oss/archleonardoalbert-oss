@@ -25,13 +25,9 @@ Software engineer in training with a rigorous focus on backend development, syst
 * ⚙️ **Backend & SaaS Development:** Scalable software architecture, REST APIs, and business logic designed for SaaS products.
 * 🏆 **Competitive Programming:** Algorithm optimization, advanced data structures, and efficient problem solving.
 * 🤖 **Artificial Intelligence:** Model development and implementation using TensorFlow.
-
 ---
 
-### 📊 GitHub Stats
-
+<!-- Animated Footer -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer Animation" />
 </p>
